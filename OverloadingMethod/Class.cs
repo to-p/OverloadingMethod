@@ -7,6 +7,7 @@ namespace OverloadingMethod
 
     public class Number
     {
+       
         public int FindMinimum(int number1, int number2)
         {
             return number1 - number2 - number2;
