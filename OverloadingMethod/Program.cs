@@ -6,6 +6,7 @@ namespace OverloadingMethod
     {
         static void Main(string[] args)
         {
+            
             Number number = new Number();
 
             Console.WriteLine("Minimum 1 : {0}", number.FindMinimum(3, 1));
